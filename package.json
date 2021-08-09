@@ -15,6 +15,7 @@
     "react": "17.0.1",
     "react-i18next": "^11.11.4",
     "react-native": "0.64.2",
+    "react-native-localize": "^2.1.1",
     "react-native-safe-area-context": "^3.3.0",
     "react-native-svg": "^12.1.1",
     "react-native-switch-selector": "^2.1.4",
